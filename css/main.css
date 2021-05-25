@@ -2,7 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
     background-image:url("../images/Sunny.JPG");
+    background-color: #336688;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
